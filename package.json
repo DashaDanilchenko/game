@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/DashaDanilchenko/game/issues"
   },
-  "homepage": "https://github.com/DashaDanilchenko/game#readme",
+  "homepage": "https://DashaDanilchenko.github.io/game",
   "dependencies": {
     "confetti-js": "^0.0.18",
     "parcel": "^2.8.3"
