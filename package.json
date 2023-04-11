@@ -2,7 +2,7 @@
   "name": "lizard_spock",
   "version": "1.0.0",
   "description": "",
-  "m": "index.html",
+  "m": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
