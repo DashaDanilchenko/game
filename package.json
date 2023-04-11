@@ -1,0 +1,29 @@
+{
+  "name": "lizard_spock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DashaDanilchenko/Lizard_Spock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DashaDanilchenko/Lizard_Spock/issues"
+  },
+  "homepage": "https://github.com/DashaDanilchenko/Lizard_Spock#readme",
+  "dependencies": {
+    "confetti-js": "^0.0.18",
+    "parcel": "^2.8.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "gh-pages": "^5.0.0"
+  }
+}
