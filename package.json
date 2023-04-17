@@ -2,11 +2,11 @@
   "name": "lizard_spock",
   "version": "1.0.0",
   "description": "",
-  "m": "src/index.html",
+  "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
-    "deploy": "gh-pages -d dist"
+    "deploy": "rm -rf dist/&& npm run build && gh-pages -d dist"
   },
   "repository": {
     "type": "git",
